@@ -1,7 +1,7 @@
 # SEMIHUCN-ARA-SIGORTALARINDA-ANOMALI-TESPITI
 
 > **Detects Fraudulent Insurance Claims with Precision Using Binary Classification**  
-> Built with the tools and technologies: ![Python](https://img.shields.io/badge/Python-100%25-blue) ![Markdown](https://img.shields.io/badge/Markdown-README-lightgrey)
+
 
 ---
 
